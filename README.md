@@ -1,0 +1,2 @@
+# segmentasi-pengolahancitradigital
+Segmentation Task
